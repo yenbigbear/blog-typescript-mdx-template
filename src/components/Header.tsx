@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import CustomLink from '@/components/CustomLink';
 import MobileNav from '@/components/MobileNav';
 import SectionContainer from '@/components/SectionContainer';

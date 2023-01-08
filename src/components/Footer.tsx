@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import CustomLink from '@/components/CustomLink';
 import SocialIcon from '@/components/SocialIcon';
 import { footerConfigs } from '@/configs/footerConfigs';
