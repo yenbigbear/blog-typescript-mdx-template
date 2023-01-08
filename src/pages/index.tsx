@@ -26,16 +26,16 @@ const Home: NextPage<Props> = ({ posts }) => {
   return (
     <div>
       <Head>
-        <title>Next.js Tailwind Contentlayer Blog Starter</title>
+        <title>Day 12 ok</title>
         <meta name="description" content="Welcome to my blog" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className="prose my-12 space-y-2 transition-colors dark:prose-dark md:prose-lg md:space-y-5">
-        <h1 className="text-center sm:text-left">Hey, I am Iron Man ?</h1>
-        <p>我是 Tony Stark，不是 Stank！</p>
-        <p>老子很有錢，拯救過很多次世界。</p>
-        <p>我討厭外星人、紫色的東西、和紫色外星人。</p>
+        <h1 className="text-center sm:text-left">Hey, I am Jack</h1>
+        <p>我是 Jack Yen，不是 Jacky Yen！</p>
+        <p>老子沒有錢，睡車頭可以揪。</p>
+        <p>我討厭戰爭、喜愛和平、願世界大同。</p>
       </div>
 
       <div className="my-4 divide-y divide-gray-200 transition-colors dark:divide-gray-700">
