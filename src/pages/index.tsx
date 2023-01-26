@@ -26,7 +26,7 @@ const Home: NextPage<Props> = ({ posts }) => {
   return (
     <div>
       <Head>
-        <title>Day 12 ok</title>
+        <title>Day 13 ok</title>
         <meta name="description" content="Welcome to my blog" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
